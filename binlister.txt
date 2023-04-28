@@ -1,0 +1,7 @@
+bin 1
+Valid preview
+.{141;142}
+
+bin 2
+Invalid preview
+.{143;144}
